@@ -1,0 +1,9 @@
+%More Training Data
+addpath('Copy_of_train')
+image = tif_to_matrix('image.tif');
+synapse = tif_to_matrix('synapse.tif');
+
+for i = 1:5:259
+    for j = 1:size(image,1)
+    imagenew(:,:,j) = imrotate(image(:,:,j),i,'bilinear')
+end

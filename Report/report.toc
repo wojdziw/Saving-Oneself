@@ -1,0 +1,117 @@
+\contentsline {section}{\numberline {1}Introduction}{1}
+\contentsline {subsection}{\numberline {1.1}Anatomy of the Brain}{1}
+\contentsline {subsection}{\numberline {1.2}The Connectome}{3}
+\contentsline {section}{\numberline {2}Chemical Preparation}{5}
+\contentsline {subsection}{\numberline {2.1}Introduction}{5}
+\contentsline {subsection}{\numberline {2.2}Fixation}{6}
+\contentsline {subsubsection}{\numberline {2.2.1}Immersion}{6}
+\contentsline {subsubsection}{\numberline {2.2.2}Perfusion}{7}
+\contentsline {subsubsection}{\numberline {2.2.3}Ethical \& Legal Concerns}{8}
+\contentsline {subsubsection}{\numberline {2.2.4}Surgical plane of Anaesthesia}{10}
+\contentsline {subsubsection}{\numberline {2.2.5}Washout Solution}{10}
+\contentsline {paragraph}{\numberline {2.2.5.1}Washout Method}{12}
+\contentsline {subsubsection}{\numberline {2.2.6}Fixative Perfusion}{12}
+\contentsline {paragraph}{\numberline {2.2.6.1}Fixative Method}{13}
+\contentsline {subsubsection}{\numberline {2.2.7}Cryoprotectant}{14}
+\contentsline {paragraph}{\numberline {2.2.7.1}Cryoprotectant Method}{15}
+\contentsline {subsection}{\numberline {2.3}Vitrification}{16}
+\contentsline {subsubsection}{\numberline {2.3.1}Warming and removal of CPA}{16}
+\contentsline {subsection}{\numberline {2.4}Post Fixation and Staining}{17}
+\contentsline {subsubsection}{\numberline {2.4.1}BROPA}{18}
+\contentsline {paragraph}{\numberline {2.4.1.1}Reduced Osmium and Formamide}{18}
+\contentsline {paragraph}{\numberline {2.4.1.2}Osmium Tetroxide}{18}
+\contentsline {paragraph}{\numberline {2.4.1.3}Pyrogallol}{19}
+\contentsline {subsubsection}{\numberline {2.4.2}BROPA Method \cite {highres_em_staining}}{19}
+\contentsline {subsection}{\numberline {2.5}Dehydration}{20}
+\contentsline {subsubsection}{\numberline {2.5.1}Exposure}{20}
+\contentsline {subsubsection}{\numberline {2.5.2}Freeze Drying}{20}
+\contentsline {subsubsection}{\numberline {2.5.3}Critical Point Drying}{21}
+\contentsline {subsubsection}{\numberline {2.5.4}Solvent Dehydration}{21}
+\contentsline {subsubsection}{\numberline {2.5.5}Solvent Dehydration Method}{21}
+\contentsline {subsection}{\numberline {2.6}Embedding}{22}
+\contentsline {subsubsection}{\numberline {2.6.1}Unicryl}{23}
+\contentsline {subsubsection}{\numberline {2.6.2}Embedding Method \cite {UNICRYL}}{23}
+\contentsline {subsection}{\numberline {2.7}Automation of Chemical Preparation}{24}
+\contentsline {subsection}{\numberline {2.8}Conclusion}{25}
+\contentsline {section}{\numberline {3}Brain Removal}{26}
+\contentsline {section}{\numberline {4}Sectioning}{27}
+\contentsline {subsection}{\numberline {4.1}Final Sectioning}{27}
+\contentsline {subsubsection}{\numberline {4.1.1}Focus Ion Beam Milling (FIB)}{27}
+\contentsline {subsubsection}{\numberline {4.1.2}Serial Block Faced Scanning Electron Microscopy (SBSEM)}{29}
+\contentsline {subsubsection}{\numberline {4.1.3}Laser Microtomy}{31}
+\contentsline {subsubsection}{\numberline {4.1.4}Automated Tape-Collecting System Ultra-Microtome (ATUM)}{32}
+\contentsline {subsubsection}{\numberline {4.1.5}NanoKnife}{36}
+\contentsline {subsubsection}{\numberline {4.1.6}Discussion}{37}
+\contentsline {subsection}{\numberline {4.2}Initial Sectioning}{37}
+\contentsline {subsubsection}{\numberline {4.2.1}Tissue Chopper}{38}
+\contentsline {subsubsection}{\numberline {4.2.2}Vibratome}{38}
+\contentsline {subsubsection}{\numberline {4.2.3}Compresstome}{38}
+\contentsline {subsubsection}{\numberline {4.2.4}Cryostat}{39}
+\contentsline {subsubsection}{\numberline {4.2.5}Discussion \& Method}{39}
+\contentsline {subsection}{\numberline {4.3}Intermediate Sectioning}{41}
+\contentsline {subsubsection}{\numberline {4.3.1}Focused Ion Beam Milling (FIB)}{41}
+\contentsline {subsubsection}{\numberline {4.3.2}Custom Tissue Chopper}{43}
+\contentsline {subsubsection}{\numberline {4.3.3}Custom Vibratome}{44}
+\contentsline {subsubsection}{\numberline {4.3.4}Discussion}{46}
+\contentsline {section}{\numberline {5}Recording Technologies}{48}
+\contentsline {subsection}{\numberline {5.1}Introduction}{48}
+\contentsline {subsection}{\numberline {5.2}Magnetic Resonance Based Methods}{48}
+\contentsline {subsubsection}{\numberline {5.2.1}MRI}{48}
+\contentsline {subsubsection}{\numberline {5.2.2}fMRI}{49}
+\contentsline {subsubsection}{\numberline {5.2.3}MRFM}{50}
+\contentsline {subsection}{\numberline {5.3}Light Based Methods}{50}
+\contentsline {subsubsection}{\numberline {5.3.1}STED}{51}
+\contentsline {subsubsection}{\numberline {5.3.2}STORM/PALM/FPALM}{52}
+\contentsline {subsubsection}{\numberline {5.3.3}Brainbow}{52}
+\contentsline {subsubsection}{\numberline {5.3.4}ExM}{54}
+\contentsline {subsubsection}{\numberline {5.3.5}Discussion}{55}
+\contentsline {subsection}{\numberline {5.4}X-ray Methods}{55}
+\contentsline {subsubsection}{\numberline {5.4.1}Hard X-rays}{55}
+\contentsline {subsection}{\numberline {5.5}EM Based Methods}{56}
+\contentsline {subsubsection}{\numberline {5.5.1}TEM}{56}
+\contentsline {subsubsection}{\numberline {5.5.2}SEM}{57}
+\contentsline {subsubsection}{\numberline {5.5.3}MultiSEM}{58}
+\contentsline {subsection}{\numberline {5.6}Future and Feasibility}{62}
+\contentsline {subsection}{\numberline {5.7}Summary}{63}
+\contentsline {section}{\numberline {6}Data organisation and querying}{66}
+\contentsline {subsection}{\numberline {6.1}Data organisation}{66}
+\contentsline {subsubsection}{\numberline {6.1.1}NeuroML}{66}
+\contentsline {subsubsection}{\numberline {6.1.2}CAJAL3D}{67}
+\contentsline {subsubsection}{\numberline {6.1.3}Summary and design choice}{68}
+\contentsline {subsection}{\numberline {6.2}Data querying}{69}
+\contentsline {subsubsection}{\numberline {6.2.1}WaferMapper}{69}
+\contentsline {subsubsection}{\numberline {6.2.2}TrakEM2}{69}
+\contentsline {subsubsection}{\numberline {6.2.3}ConnectomeExplorer}{69}
+\contentsline {subsubsection}{\numberline {6.2.4}Summary and design choice}{70}
+\contentsline {section}{\numberline {7}Data storage}{70}
+\contentsline {subsubsection}{\numberline {7.0.5}Summary, design choice and future outlooks}{72}
+\contentsline {section}{\numberline {8}Segmentation}{73}
+\contentsline {subsection}{\numberline {8.1}Manual segmentation}{73}
+\contentsline {subsection}{\numberline {8.2}Machine learning}{74}
+\contentsline {subsubsection}{\numberline {8.2.1}Segmentation scoring}{75}
+\contentsline {subsubsection}{\numberline {8.2.2}Logistic regression}{75}
+\contentsline {subsubsection}{\numberline {8.2.3}Random forests}{77}
+\contentsline {subsubsection}{\numberline {8.2.4}Artificial neural networks}{79}
+\contentsline {subsubsection}{\numberline {8.2.5}Convolutional neural networks}{83}
+\contentsline {subsubsection}{\numberline {8.2.6}Summary and design choice}{84}
+\contentsline {subsection}{\numberline {8.3}Classification}{85}
+\contentsline {subsubsection}{\numberline {8.3.1}Pixel-by-pixel classification}{85}
+\contentsline {subsubsection}{\numberline {8.3.2}Regional classification}{86}
+\contentsline {subsubsection}{\numberline {8.3.3}Image preprocessing}{87}
+\contentsline {subsection}{\numberline {8.4}Running time efficiency}{89}
+\contentsline {subsection}{\numberline {8.5}Hardware requirements}{90}
+\contentsline {section}{\numberline {9}Business Case}{92}
+\contentsline {subsection}{\numberline {9.1}Executive Summary}{92}
+\contentsline {subsection}{\numberline {9.2}Benefits}{93}
+\contentsline {subsection}{\numberline {9.3}Risk}{93}
+\contentsline {subsection}{\numberline {9.4}Timescale}{93}
+\contentsline {subsection}{\numberline {9.5}Cost}{94}
+\contentsline {subsubsection}{\numberline {9.5.1}Materials}{95}
+\contentsline {subsubsection}{\numberline {9.5.2}Machinery}{95}
+\contentsline {subsubsection}{\numberline {9.5.3}Utilities}{96}
+\contentsline {subsubsection}{\numberline {9.5.4}Labour}{96}
+\contentsline {subsubsection}{\numberline {9.5.5}Total}{97}
+\contentsline {subsection}{\numberline {9.6}Investment}{98}
+\contentsline {section}{\numberline {10}Conclusion}{99}
+\contentsline {subsubsection}{\numberline {10.0.1}Logical Pipeline}{99}
+\contentsline {subsubsection}{\numberline {10.0.2}The Future}{102}
